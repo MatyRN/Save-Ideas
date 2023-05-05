@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1683165112 source:c:\users\matias reimondez\documents\proyectosdeprogramacion\winapi\main.cpp
+	<iostream>
+	"Window.cpp"
+
+1683245681 c:\users\matias reimondez\documents\proyectosdeprogramacion\winapi\window.cpp
+	"WINDOW.h"
+
+1683165105 c:\users\matias reimondez\documents\proyectosdeprogramacion\winapi\window.h
+	<string>
+	<stdio.h>
+	<string.h>
+	<Windows.h>
+	"DataBase.cpp"
+
+1683245648 c:\users\matias reimondez\documents\proyectosdeprogramacion\winapi\database.cpp
+	<string>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1683080094 c:\users\matias reimondez\documents\proyectosdeprogramacion\winapi\main.cpp
+	<iostream>
+	"Window.cpp"
+
